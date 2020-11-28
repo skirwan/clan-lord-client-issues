@@ -1,0 +1,19 @@
+{
+  "name": "clan-lord-client-issues",
+  "version": "1.0.0",
+  "description": "Bug tracking for Clieunk",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx run.env node index.js"
+  },
+  "author": "Skirwan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/skirwan/clan-lord-client-issues/issues"
+  },
+  "homepage": "https://github.com/skirwan/clan-lord-client-issues#readme",
+  "dependencies": {
+    "github-api": "^3.3.0",
+    "run.env": "^1.1.0"
+  }
+}
